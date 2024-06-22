@@ -1,5 +1,6 @@
 
-# Tic Tac Toe Game
+# Tic Tac Toe Game 
+Game live at https://jainambheda.github.io/Tic-Tac-Toe-Game/
 
 This project is a web-based Tic Tac Toe game developed using JavaScript, HTML, and CSS. The game provides a classic and intuitive interface for users to play the popular two-player game. It features responsive design, smooth animations, and a straightforward user experience.
 
